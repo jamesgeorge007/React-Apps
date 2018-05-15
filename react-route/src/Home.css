@@ -3,3 +3,14 @@
   outline: none;
   margin: none;
 }
+
+li{
+  list-style: none;
+  display: inline;
+  margin: 20px;
+  background-color: #e7e7e7;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.7em;
+  padding: 6px;
+}
